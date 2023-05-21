@@ -67,15 +67,15 @@ export const Reviews = () => {
               </div>
               <br />
               <div className="text-[#3d3d3d] leading-[1.5] mb-[20px]">
-                &quot;I've been going here since the beginning of 2017. Ava is the
-                woman who does my acrylic nails and I can't recommend her
+                &quot;I&apos;ve been going here since the beginning of 2017. Ava is the
+                woman who does my acrylic nails and I can&apos;t recommend her
                 enough. When I brought my mother here, she got her acrylic nails
-                done with Ava's husband Tony. We are regular customers due to
+                done with Ava&apos;s husband Tony. We are regular customers due to
                 their kindness, service, speed, and the quality results. The
                 inside is nice and there are plenty of seats for gel, regular,
                 acrylic, pedicure, and they have nice massage chairs too.
                 Definitely worth stopping by and checking them out. Also, cash
-                is the way to tip here because they don't do tips on cards.&quot;
+                is the way to tip here because they don&apos;t do tips on cards.&quot;
               </div>
               <br />
               <h4>Brigette</h4>
