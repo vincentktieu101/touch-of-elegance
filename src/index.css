@@ -60,7 +60,7 @@ hr {
 }
 
 #cover {
-  min-height: 80vh;
+  min-height: 90vh;
   padding: 10vh 0;
 }
 
@@ -118,6 +118,7 @@ hr {
   margin-left: 440px;
   margin-top: 105px;
   height: 680px;
+  width: auto;
 }
 
 .cover-text {
@@ -204,7 +205,7 @@ hr {
   .cover-text {
     position: absolute;
     margin-right: 0px;
-    margin-top: -270px;
+    margin-top: -170px;
   }
 }
 
@@ -218,7 +219,7 @@ hr {
   .cover-text {
     position: absolute;
     margin-right: 0px;
-    margin-top: -300px;
+    margin-top: -200px;
   }
 
   .cover-brand-one {
