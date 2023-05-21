@@ -7,7 +7,7 @@ export const Feature = () => {
       <div className="feature-overlay" />
       <Container>
         <div className="feature-content">
-          <h2 className="flex-row" style={{ justifyContent: "center" }}>
+          <h2 className="flex flex-row" style={{ justifyContent: "center" }}>
             <div style={{ margin: "0 8px" }}>CELEBRATING</div>
             <div style={{ margin: "0 8px" }}>11 YEARS</div>
             <div style={{ margin: "0 8px" }}>OF BUSINESS</div>

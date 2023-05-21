@@ -2,6 +2,16 @@ import React from "react";
 import { Container } from "@mui/material";
 import StarIcon from "@mui/icons-material/Star";
 
+const FiveStars = () => (
+  <>
+    <StarIcon />
+    <StarIcon />
+    <StarIcon />
+    <StarIcon />
+    <StarIcon />
+  </>
+);
+
 export const Reviews = () => {
   return (
     <div id="reviews">
@@ -12,20 +22,16 @@ export const Reviews = () => {
           <div>
             <br />
           </div>
-          <div className="flex-row">
-            <div className="flex-col review-box">
+          <div className="flex flex-row justify-between w-full">
+            <div className="flex flex-col items-center review-box">
               <div>
-                <StarIcon />
-                <StarIcon />
-                <StarIcon />
-                <StarIcon />
-                <StarIcon />
+                <FiveStars />
                 <br />
                 <div className="text-secondary">one year ago</div>
                 <br />
               </div>
               <br />
-              <div className="review-text">
+              <div className="text-[#3d3d3d] leading-[1.5] mb-[20px]">
                 "This place is awesome for manicures and pedicures...what are
                 you waiting for?!! Excellent service and highly recommended!"
               </div>
@@ -35,19 +41,15 @@ export const Reviews = () => {
               <hr />
               <br />
             </div>
-            <div className="flex-col review-box">
+            <div className="flex flex-col items-center review-box">
               <div>
-                <StarIcon />
-                <StarIcon />
-                <StarIcon />
-                <StarIcon />
-                <StarIcon />
+                <FiveStars />
                 <br />
                 <div className="text-secondary">one year ago</div>
                 <br />
               </div>
               <br />
-              <div className="review-text">
+              <div className="text-[#3d3d3d] leading-[1.5] mb-[20px]">
                 "Always a great job on my toes and fingers!!! ❤"
               </div>
               <br />
@@ -56,19 +58,15 @@ export const Reviews = () => {
               <hr />
               <br />
             </div>
-            <div className="flex-col review-box">
+            <div className="flex flex-col items-center review-box">
               <div>
-                <StarIcon />
-                <StarIcon />
-                <StarIcon />
-                <StarIcon />
-                <StarIcon />
+                <FiveStars />
                 <br />
                 <div className="text-secondary">4 years ago</div>
                 <br />
               </div>
               <br />
-              <div className="review-text">
+              <div className="text-[#3d3d3d] leading-[1.5] mb-[20px]">
                 "I've been going here since the beginning of 2017. Ava is the
                 woman who does my acrylic nails and I can't recommend her
                 enough. When I brought my mother here, she got her acrylic nails
