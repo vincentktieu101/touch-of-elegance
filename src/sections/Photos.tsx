@@ -26,44 +26,48 @@ export const Photos = () => {
           </div>
           <div className="grid gap-[20px] grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
             <Image
-              alt="Awesome photo of the store"
               src={StoreView1}
+              alt="Awesome photo of the store"
             />
             <Image
-              alt="Awesome photo of the store"
               src={StoreView2}
+              alt="Awesome photo of the store"
             />
             <Image
-              alt="Awesome photo of the store"
               src={StoreView3}
+              alt="Awesome photo of the store"
             />
             <Image
-              alt="Awesome photo of the store"
               src={StoreView4}
+              alt="Awesome photo of the store"
             />
             <Image
-              alt="Awesome photo of the store"
               src={StoreView5}
+              alt="Awesome photo of the store"
             />
             <Image
-              alt="Awesome photo of the store"
               src={StoreView6}
+              alt="Awesome photo of the store"
             />
             <Image
-              alt="Awesome photo of the store"
               src={Menu1}
+              onClick={()=> window.open("/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmenu-1.a339c9a5.jpg&w=3840&q=75", "_blank")}
+              alt="Menu 1"
             />
             <Image
-              alt="Awesome photo of the store"
               src={Menu2}
+              onClick={()=> window.open("/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmenu-2.b5180653.jpg&w=3840&q=75", "_blank")}
+              alt="Menu 2"
             />
             <Image
-              alt="Awesome photo of the store"
               src={Menu3}
+              onClick={()=> window.open("/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmenu-3.c453d8ae.jpg&w=3840&q=75", "_blank")}
+              alt="Menu 3"
             />
             <Image
-              alt="Awesome photo of the store"
               src={Menu4}
+              onClick={()=> window.open("/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmenu-4.2de990c5.jpg&w=3840&q=75", "_blank")}
+              alt="Menu 4"
             />
           </div>
           <br />

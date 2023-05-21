@@ -6,7 +6,7 @@ import { Layout } from "../components/Layout";
 import { Cover } from "../sections/Cover";
 import { About } from "../sections/About";
 import { Photos } from "../sections/Photos";
-import { Services } from "../sections/Services";
+// import { Services } from "../sections/Services";
 import { Feature } from "../sections/Feature";
 import { Reviews } from "../sections/Reviews";
 
@@ -17,7 +17,7 @@ const Page = () => {
         <Cover />
         <About />
         <Photos />
-        <Services />
+        {/* <Services /> */}
         <Feature />
         <Reviews />
       </Layout>
