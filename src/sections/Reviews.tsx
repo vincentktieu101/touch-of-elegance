@@ -32,8 +32,8 @@ export const Reviews = () => {
               </div>
               <br />
               <div className="text-[#3d3d3d] leading-[1.5] mb-[20px]">
-                "This place is awesome for manicures and pedicures...what are
-                you waiting for?!! Excellent service and highly recommended!"
+                &quot;This place is awesome for manicures and pedicures...what are
+                you waiting for?!! Excellent service and highly recommended!&quot;
               </div>
               <br />
               <h4>David C</h4>
@@ -50,7 +50,7 @@ export const Reviews = () => {
               </div>
               <br />
               <div className="text-[#3d3d3d] leading-[1.5] mb-[20px]">
-                "Always a great job on my toes and fingers!!! ❤"
+                &quot;Always a great job on my toes and fingers!!! ❤&quot;
               </div>
               <br />
               <h4>Darlene G</h4>
@@ -67,7 +67,7 @@ export const Reviews = () => {
               </div>
               <br />
               <div className="text-[#3d3d3d] leading-[1.5] mb-[20px]">
-                "I've been going here since the beginning of 2017. Ava is the
+                &quot;I've been going here since the beginning of 2017. Ava is the
                 woman who does my acrylic nails and I can't recommend her
                 enough. When I brought my mother here, she got her acrylic nails
                 done with Ava's husband Tony. We are regular customers due to
@@ -75,7 +75,7 @@ export const Reviews = () => {
                 inside is nice and there are plenty of seats for gel, regular,
                 acrylic, pedicure, and they have nice massage chairs too.
                 Definitely worth stopping by and checking them out. Also, cash
-                is the way to tip here because they don't do tips on cards."
+                is the way to tip here because they don't do tips on cards.&quot;
               </div>
               <br />
               <h4>Brigette</h4>
