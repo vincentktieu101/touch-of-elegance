@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import { Container } from "@mui/material";
-import Logo from "public/Logo.png";
+import Logo from "public/logo.png";
 
 export const Cover = () => {
   return (

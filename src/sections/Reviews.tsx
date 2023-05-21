@@ -22,7 +22,7 @@ export const Reviews = () => {
           <div>
             <br />
           </div>
-          <div className="flex flex-row justify-between w-full">
+          <div className="flex flex-col items-center w-full md:flex-row md:justify-between">
             <div className="flex flex-col items-center review-box">
               <div>
                 <FiveStars />
