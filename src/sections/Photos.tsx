@@ -2,12 +2,12 @@ import React from "react";
 import { Container } from "@mui/material";
 import Image from "next/image";
 
-import StoreView1 from 'public/store-view-1.png';
-import StoreView2 from 'public/store-view-2.png';
-import StoreView3 from 'public/store-view-3.png';
-import StoreView4 from 'public/store-view-4.png';
-import StoreView5 from 'public/store-view-5.png';
-import StoreView6 from 'public/store-view-6.png';
+import StoreView1 from 'public/store-view-1.jpg';
+import StoreView2 from 'public/store-view-2.jpg';
+import StoreView3 from 'public/store-view-3.jpg';
+import StoreView4 from 'public/store-view-4.jpg';
+import StoreView5 from 'public/store-view-5.jpg';
+import StoreView6 from 'public/store-view-6.jpg';
 
 import Menu1 from 'public/menu-1.jpg';
 import Menu2 from 'public/menu-2.jpg';
