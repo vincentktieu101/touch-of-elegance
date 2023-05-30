@@ -16,7 +16,7 @@ import Menu4 from 'public/menu-4.jpg';
 
 export const Photos = () => {
   return (
-    <div id="photos">
+    <div id="services">
       <Container>
         <div className="photos-content">
           <h2>PHOTOS</h2>

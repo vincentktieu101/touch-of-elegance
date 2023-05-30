@@ -50,7 +50,7 @@ export default function Header() {
             </ListItemText>
           </ListItem>
         </a>
-        <a href="#photos">
+        <a href="#services">
           <ListItem key={"Photos"}>
             <ListItemIcon>
               <PhotoLibraryIcon />
